@@ -275,6 +275,4 @@ The trigger timing can see [Owl Carousel document](https://owlcarousel2.github.i
 - translated
 - changed
 
-## :collision: NPM
 
-[![NPM](https://nodei.co/npm/vue-owl-carousel.png)](https://www.npmjs.com/package/vue-owl-carousel)
