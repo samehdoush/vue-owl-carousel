@@ -1,12 +1,14 @@
 {
-  "name": "vue-owl-carousel",
+
+  "name": "@samehdoush/vue-owl-carousel",
   "description": "VueJS wrapper for Owl Carousel forked from Leo Chien <s950329@gmail.com>",
   "version": "2.0.4",
   "author": {
-    "name": "sameh doush <samehdev95@gmail.com> "
+    "name": "sameh doush  ","email": "samehdev95@gmail.com"
   },
+  
   "bugs": {
-    "url": "https://github.com/s950329/vue-owl-carousel/issues"
+    "url": "https://github.com/samehdoush/vue-owl-carousel/issues"
   },
   "keywords": [
     "vuejs",
@@ -46,14 +48,17 @@
     "webpack-cli": "^3.3.1",
     "webpack-merge": "^4.1.0"
   },
-  "homepage": "https://github.com/s950329/vue-owl-carousel#readme",
+  "homepage": "https://github.com/samehdoush/vue-owl-carousel#readme",
   "license": "MIT",
   "main": "dist/vue-owl-carousel.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/s950329/vue-owl-carousel.git"
+    "url": "git@github.com:samehdoush/vue-owl-carousel.git"
   },
   "scripts": {
     "build": "webpack --config ./webpack.config.js"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/samehdoush"
   }
 }
