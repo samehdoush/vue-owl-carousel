@@ -18,14 +18,14 @@
 
 
 
-`npm install @samehdoush/vue-owl-carousel@2.0.5` 
+`npm install @samehdoush/vue-owl-carousel` 
 
 ## Usage
 
 ```
 <script>
 
-import carousel from 'vue-owl-carousel'
+import carousel from '@samehdoush/vue-owl-carousel'
 
 export default {
     components: { carousel },
