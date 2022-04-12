@@ -1,9 +1,9 @@
 {
   "name": "vue-owl-carousel",
-  "description": "VueJS wrapper for Owl Carousel",
-  "version": "2.0.3",
+  "description": "VueJS wrapper for Owl Carousel forked from Leo Chien <s950329@gmail.com>",
+  "version": "2.0.4",
   "author": {
-    "name": "Leo Chien <s950329@gmail.com>"
+    "name": "sameh doush <samehdev95@gmail.com> "
   },
   "bugs": {
     "url": "https://github.com/s950329/vue-owl-carousel/issues"
@@ -20,7 +20,7 @@
   "dependencies": {
     "css-loader": "^1.0.0",
     "file-loader": "^2.0.0",
-    "jquery": "^3.3.1",
+    "jquery": "^3.6.0",
     "owl.carousel": "^2.3.4",
     "style-loader": "^0.23.0"
   },
