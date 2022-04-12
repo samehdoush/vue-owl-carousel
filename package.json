@@ -1,7 +1,7 @@
 {
   "name": "@samehdoush/vue-owl-carousel",
   "description": "VueJS wrapper for Owl Carousel forked from Leo Chien <s950329@gmail.com>",
-  "version": "2.0.5",
+  "version": "2.0.6",
   "author": "sameh doush <samehdev95@gmail.com>",
   "bugs": {
     "url": "https://github.com/samehdoush/vue-owl-carousel/issues"
