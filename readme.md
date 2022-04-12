@@ -1,6 +1,4 @@
 
-[![npm](https://img.shields.io/npm/dt/vue-owl-carousel.svg)](https://www.npmjs.com/package/vue-owl-carousel)
-
   ---
 
 ## Intro
@@ -20,7 +18,7 @@
 
 
 
-`npm i -s vue-owl-carousel` or `yarn add vue-owl-carousel`
+`npm install @samehdoush/vue-owl-carousel@2.0.5` 
 
 ## Usage
 
@@ -243,7 +241,21 @@ Default: `{}`
 
 Example : `:responsive="{0:{items:1,nav:false},600:{items:3,nav:true}}"`
 
+
 Object containing responsive options. Can be set to false to remove responsive capabilities.
+
+- #### rtl
+
+Type: `Boolean`
+
+Default: `false`
+
+- #### goTo
+
+Type: `Number`
+
+Default: `0`
+
 
 ## Available events
 
@@ -261,7 +273,6 @@ The trigger timing can see [Owl Carousel document](https://owlcarousel2.github.i
 - dragged
 - translate
 - translated
-- to
 - changed
 
 ## :collision: NPM
